@@ -1,0 +1,8 @@
+Defaulting to user installation because normal site-packages is not writeable
+Collecting email-validator
+  Downloading email_validator-2.3.0-py3-none-any.whl.metadata (26 kB)
+Requirement already satisfied: dnspython>=2.0.0 in c:\users\user\appdata\roaming\python\python314\site-packages (from email-validator) (2.8.0)
+Requirement already satisfied: idna>=2.0.0 in c:\users\user\appdata\roaming\python\python314\site-packages (from email-validator) (3.11)
+Downloading email_validator-2.3.0-py3-none-any.whl (35 kB)
+Installing collected packages: email-validator
+Successfully installed email-validator-2.3.0
