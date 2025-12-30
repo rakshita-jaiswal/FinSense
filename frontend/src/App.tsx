@@ -33,7 +33,7 @@ const App = () => (
             <Toaster />
             <Sonner />
             <Routes>
-              <Route path="/" element={<Index />} />
+              <Route path="/FinSense" element={<Index />} />
               <Route path="/welcome" element={<Navigate to="/" replace />} />
               <Route path="/signup" element={<SignUp />} />
               <Route path="/signin" element={<SignIn />} />
